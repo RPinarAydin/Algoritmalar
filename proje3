@@ -1,0 +1,12 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız?
+
+* Mantığımıza göre ağaçta rootun sağındaki sayılar kendinden büyük solundaki sayılar kendinden küçük olması gerekiyor bu bağlamda bana göre en dengeli sonuç : 
+                     5
+                 /       \
+                3          7
+            /     \       /  \
+          1        4     6    8
+         / \                   \
+         0  2                   9
+
+Root 5'dir. sağında 7 solunda 3 bulunur. 
